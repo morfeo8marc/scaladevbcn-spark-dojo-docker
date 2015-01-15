@@ -8,6 +8,7 @@ This repository contains a **Dockerfile** to create a docker container with Java
 
 
 ### Installation
+You can build the image from the Dockerfile or pull the image from the docker hub.
 
 1. Install [Docker](https://www.docker.io/).
 
